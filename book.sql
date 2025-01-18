@@ -1,4 +1,4 @@
-/* BOOK */
+/* BOOK testtest */
 CREATE TABLE TABLE (
 	COL NUMBER(3) NOT NULL, /* bno */
 	COL2 VARCHAR2(20), /* bname */
